@@ -2,7 +2,7 @@
 
 <template>
   <div>
-    <el-button>It should be 444</el-button>
+    <el-button>It should be 888</el-button>
   </div>
 </template>
 
