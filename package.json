@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "element-plus": "https://pkg.pr.new/warmthsea/element-plus@c5f8758",
+    "element-plus": "https://pkg.pr.new/warmthsea/element-plus@20",
     "vue": "^3.4.37"
   },
   "devDependencies": {

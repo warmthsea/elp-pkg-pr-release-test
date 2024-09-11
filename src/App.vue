@@ -12,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a> -->
     <el-button>elp elp elp</el-button>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <!-- <HelloWorld msg="Vite + Vue" /> -->
 </template>
 
 <style scoped>
